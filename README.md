@@ -89,7 +89,7 @@ MIT License — use freely, fork openly, contribute if you love it.
 
 ---
 
-## ✍️ For Authors & Developers
+## ✍️ Author & Developer
 
 **Jesse Edward Eugene Wayne Conley**
 * 🧠 [github.com/freightdev](https://github.com/freightdev)
