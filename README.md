@@ -72,12 +72,11 @@ MIT License — use freely, fork openly, contribute if you love it.
 
 ---
 
-## ✍️ Author
+## ✍️ For Authors & Developers
 
 **Jesse Edward Eugene Wayne Conley**
-
-* 📬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
-* 🔗 [github.com/freightdev](https://github.com/freightdev)
+* 🧠 [github.com/freightdev](https://github.com/freightdev)
+* 💬 [jesse.freightdev@gmail.com](mailto:jesse.freightdev@gmail.com)
 
 > "Don't just write memory. Learn how to mark it."
 
